@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/roushan-jsr8"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="roushanjsr811@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:roushanjsr811@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -70,10 +70,9 @@ I am a Computer Science Engineering student at BNM Institute of Technology, Beng
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roushan123kumar&layout=compact&theme=dark" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Roushan123kumar&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roushan123kumar&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roushan123kumar&show_icons=true&theme=dark)
 
 ---
 📬 **Let's Connect!** Always down to collaborate on Java/Spring Boot ecosystems, AI application pipelines, or data visualization projects!
